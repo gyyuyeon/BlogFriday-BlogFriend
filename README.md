@@ -11,12 +11,13 @@ Web, Mobile
 담당 역할 메신저(WebSocket), 쇼핑몰(구매, 검색, 등록)  
 
 **개발환경**	  
-**언어**:			Java(JDK-17), Python(3.12.3), JavaScript  
-**서버**: 			Apache Tomcat 10.0  
-**프레임워크**:		React(10.5.0), Springboot(3.2.4)  
-**데이터 베이스**:		Mysql(8.0.36)  
-**ORM**:			MyBatis  
-**API, 라이브러리**:		WebSocket, JWT, 크롤링  
+
+- **언어**:			Java(JDK-17), Python(3.12.3), JavaScript  
+- **서버**: 			Apache Tomcat 10.0  
+- **프레임워크**:		React(10.5.0), Springboot(3.2.4)  
+- **데이터 베이스**:		Mysql(8.0.36)  
+- **ORM**:			MyBatis  
+- **API, 라이브러리**:		WebSocket, JWT, 크롤링  
 
 
 ##기능 설명  
